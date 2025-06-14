@@ -51,7 +51,9 @@ We welcome **community feedback**, issues, forks, and ideas – when it's public
 | 📄 Resource | 🔗 Link |
 |------------|--------|
 | Company Website | [https://collectivedesign.agency](https://collectivedesign.agency) |
-| Portfolio | [See Our Work](https://collectivedesign.agency/work) |
+| Company Website (Short Domain) | [https://cda.agency](https://cda.agency) |
+| Web Portfolio | [See Our Work](https://collectivedesign.agency/work) |
+| Figma Portfolio |[See Our Figma Portfolio](https://go.collect.vn/portfolio) |
 | Our Insights | [See Our Insights](https://collectivedesign.agency/insights) |
 | LinkedIn | [Collective on LinkedIn](https://www.linkedin.com/company/cda-agency) |
 
